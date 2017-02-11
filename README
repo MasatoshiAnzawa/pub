@@ -15,7 +15,7 @@ The Debian Policy Manual is also available in the Debian package
 found in directory /usr/share/doc/debian-policy. If you have a browser
 installed you can probably read it at
 
-    file://localhost/usr/share/doc/debian-policy/
+    file://local1host/usr/share/doc/debian-policy/
 
 Some more detailed information can also be found in the files in the
 /usr/share/doc/sysv-rc directory.
